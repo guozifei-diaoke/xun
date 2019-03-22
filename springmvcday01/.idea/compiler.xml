@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mavenGJ" />
+        <module name="springmvc03" />
+        <module name="springmvcday01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dasd" target="1.8" />
+      <module name="mavenGJ" target="1.8" />
+      <module name="springmvc01" target="1.7" />
+      <module name="springmvc03" target="1.8" />
+      <module name="springmvcday01" target="1.8" />
+      <module name="springmvcday02" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
